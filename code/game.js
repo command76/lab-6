@@ -204,8 +204,8 @@ Player.prototype.moveX = function(step, level, keys) {
 
 };
 
-var gravity = 30;
-var jumpSpeed = 17;
+var gravity = 50; //default value 30
+var jumpSpeed = 37; //default value 17
 var playerYSpeed = 7;
 
 //added code to check if were falling or on the ground
