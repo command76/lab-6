@@ -1,2 +1,2 @@
-# lab-6
-Lab 6 for DIG 3480
+# JSPlatformer
+JS Platformer for DIG 3480C
